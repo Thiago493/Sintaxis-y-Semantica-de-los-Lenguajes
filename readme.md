@@ -9,4 +9,4 @@ Este proyecto imprime "Hello, World!" en la consola.
 
 A. MinGW-x64. 
 B. 14.2.0. 
-C. C90. 
+C. C23. 
